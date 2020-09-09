@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Domen
 {
-    public enum Operacije { Kraj = 1 }
+    public enum Operacije { Kraj = 1,
+        VratiSveStanice = 2,
+        SacuvajLiniju = 3
+    }
 
     [Serializable]//moraju sve klase da budu ovakve
     public class TransferKlasa

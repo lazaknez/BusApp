@@ -16,17 +16,36 @@ namespace Server
         public FormaServer()
         {
             InitializeComponent();
-        }
-
-        private void FormaServer_Load(object sender, EventArgs e)
-        {
-
             server = new Server();
 
             if (server.PokreniServer())
             {
                 this.Text = "Server je pokrenut!";
             }
+        }
+
+        private void FormaServer_Load(object sender, EventArgs e)
+        {
+
+            Timer t = new Timer();
+            t.Interval = 5000;
+            t.Tick += Osvezi;
+            t.Start();
+
+        }
+
+        private void Osvezi(object sender, EventArgs e)
+        {
+            string uslov = "";
+
+
+            if (cbStanica.Checked)
+            {
+                uslov = " where l.NazivLinije like '%" + txtUnosStanice.Text + "%' or p.NazivStanice like '%" + txtUnosStanice.Text + "%' or k.NazivStanice like '%" + txtUnosStanice.Text + "%'";
+            }
+
+
+            dataGridView1.DataSource = Broker.DajSesiju().vratiSveLinijeZaServer(uslov);
 
 
         }

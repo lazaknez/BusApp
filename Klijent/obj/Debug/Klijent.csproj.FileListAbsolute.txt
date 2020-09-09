@@ -11,3 +11,16 @@ C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Klijent\obj\Debug\Kli
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Klijent\obj\Debug\Klijent.csproj.CopyComplete
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Klijent\obj\Debug\Klijent.exe
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Klijent\obj\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\bin\Debug\Klijent.exe
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\bin\Debug\Klijent.pdb
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\obj\Debug\Klijent.exe
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Klijent\obj\Debug\Klijent.pdb

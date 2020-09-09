@@ -42,6 +42,15 @@ namespace Server
                     {
                         case Operacije.Kraj:operacija = 1;
                             break;
+                        case Operacije.VratiSveStanice:
+                            transfer.Rezultat = Broker.DajSesiju().VratiSveStanice();
+                            formater.Serialize(tok, transfer);
+                            break;
+                        case Operacije.SacuvajLiniju:
+                                     transfer.Rezultat = Broker.DajSesiju().SacuvajLiniju(transfer.TransferObjekat as Linija);
+
+                            formater.Serialize(tok, transfer);
+                            break;
                         default:
                             break;
                     }

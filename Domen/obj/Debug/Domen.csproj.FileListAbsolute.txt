@@ -4,3 +4,9 @@ C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Domen\obj\Debug\Domen
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Domen\obj\Debug\Domen.dll
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Domen\obj\Debug\Domen.pdb
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Domen\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Domen\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Domen\obj\Debug\Domen.dll
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Domen\obj\Debug\Domen.pdb

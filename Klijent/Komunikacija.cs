@@ -46,6 +46,32 @@ namespace Klijent
             formater.Serialize(tok, transfer);
 
         }
+        public List<Stanica> VratiSveStanice()
+        {
+            TransferKlasa transfer = new TransferKlasa();
+            transfer.Operacija = Operacije.VratiSveStanice;
+            //slanje
+            formater.Serialize(tok, transfer);
+
+
+            transfer = formater.Deserialize(tok) as TransferKlasa;
+
+            return transfer.Rezultat as List<Stanica>;
+
+        }
+        public int SacuvajLiniju(Linija l)
+        {
+            TransferKlasa transfer = new TransferKlasa();
+            transfer.Operacija = Operacije.SacuvajLiniju;
+            //slanje
+            formater.Serialize(tok, transfer);
+
+
+            transfer = formater.Deserialize(tok) as TransferKlasa;
+
+            return (int)transfer.Rezultat ;
+
+        }
 
     }
 }

@@ -11,3 +11,16 @@ C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Server\obj\Debug\Serv
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Server\obj\Debug\Server.csproj.CopyComplete
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Server\obj\Debug\Server.exe
 C:\Users\lazam\Desktop\Ispiti\Klijent-Server-Templete-Radi\Server\obj\Debug\Server.pdb
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\bin\Debug\Server.exe.config
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\bin\Debug\Server.exe
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\bin\Debug\Server.pdb
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\bin\Debug\Domen.dll
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\bin\Debug\Domen.pdb
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\obj\Debug\Server.exe
+C:\Users\lazam\Desktop\OvoTiRadi\Autoprevoz\Server\obj\Debug\Server.pdb
